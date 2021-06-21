@@ -1,0 +1,3 @@
+<?php
+$tok = "1005295121:AAGMoN3rO2tskAOwpg3d80FcS0btTVO7V60";
+?>
